@@ -1,6 +1,9 @@
 {
   "name": "@packetloop/blah",
   "version": "0.0.0",
+  "publishConfig": {
+    "registry": "https://api.bintray.com/npm/nkbt/nkbt"
+  },
   "description": "Blah blah",
   "main": "index.js",
   "bin": {
