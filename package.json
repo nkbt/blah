@@ -1,0 +1,25 @@
+{
+  "name": "@packetloop/blah",
+  "version": "0.0.0",
+  "description": "Blah blah",
+  "main": "index.js",
+  "bin": {
+    "packetloop-blah": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkbt/blah.git"
+  },
+  "keywords": [
+    "blah"
+  ],
+  "author": "Nik Butenko <nik@butenko.me> (http://butenko.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkbt/blah/issues"
+  },
+  "homepage": "https://github.com/nkbt/blah#readme"
+}
